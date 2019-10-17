@@ -48,7 +48,7 @@ namespace Microsoft.BotBuilderSamples
             }
             else
             {
-                await turnContext.SendActivityAsync(MessageFactory.Text("Inserta Otra Palabra Bro"), cancellationToken);
+                await turnContext.SendActivityAsync(MessageFactory.Text("Ingrese otra palabra..."), cancellationToken);
             }
         }
 
