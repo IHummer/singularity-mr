@@ -1,0 +1,194 @@
+:root {
+--uno: #020314;
+--dos: #5932e6;
+--tres: #8632e6;
+--cuatro: #b332e6;
+--cinco: #e032e6;
+--texto-claro: #f2eef7;
+}
+.dash_tp_menu_area.navbar_fixed {
+background-color: #000006 !important;
+}
+.main_slider_area #dash_slider {
+background: url(../img/home-slider/slider-bg-2.png) no-repeat scroll center center !important;
+}
+.powerfull_area {
+background: #020314;
+}
+#feature {
+background: #8632e6;
+}
+.black_d_btn_r:hover {
+background: #e032e6;
+}
+.black_d_btn:hover {
+background: #e032e6;
+}
+.exclusive_team_item .hover_team_details {
+background: #5932e6;
+}
+.customer_count_area {
+background: #8632e6;
+}
+.customer_count_item {
+background: #fff;
+}
+body {
+background-color:#020314;
+}
+.dash_screen_area .single_title {
+padding-bottom: 45px;
+padding-top: 80px;
+}
+.customer_count_item h5 {
+color: #020314;
+}
+.customer_count_item h4 {
+color: #020314;
+}
+.single_title {
+color: #fff;
+}
+.p_left_item_inner .p_item .media .media-body h4 {
+color: #020314;
+}
+.p_left_item_inner .p_item .media .media-body p {
+color: #fff;
+}
+.dash_screen_area .dash_screen_slider .dash_screen_slider .owl-prev, .dash_screen_area .dash_screen_slider .dash_screen_slider .owl-next {
+background: #5932e6;
+color: #fff;
+}
+.dash_screen_area .dash_screen_slider .dash_screen_slider .owl-prev:hover, .dash_screen_area .dash_screen_slider .dash_screen_slider .owl-next:hover {
+background: #b332e6;
+box-shadow: 0px 8px 46px 0px rgba(255, 47, 222, 0.4);
+}
+.discover_video_inner a {
+background: #b332e6;
+}
+.powerfull_area .power_right_content .power_right_content_inner p {
+color: #f2eef7;
+}
+.powerfull_area .power_right_content .power_right_content_inner ul li a {
+    color: #5932e6;
+  }
+  .exclusive_team_item .hover_team_details h4 {
+    color: #fff;
+  }
+  .exclusive_team_item .hover_team_details p {
+    color: #f2eef7;
+  }
+  .exclusive_team_item .hover_team_details h5 {
+    color: #f2eef7;
+  }
+  .exclusive_team_item .hover_team_details ul li a {
+    background: #5932e6;
+  }
+  .exclusive_team_item .hover_team_details ul li:hover a {
+    background: #e032e6;
+  
+    box-shadow: 0px 0px 18px 0px rgba(255, 47, 222, 0.4);
+  }
+  .exclusive_title h2 {
+    color: #fff;
+  }
+  .subscrib_area2 {
+    background: #b332e6;
+  }
+  .asked_ques_area {
+    background: #b332e6;
+}
+.asked_ques_inner .asked_item {
+    background: #020314;
+}
+.get_form_area {
+    background: #020314;
+}
+.contact_us_form {
+    background: #5932e6;
+}
+.pink_footer_wedget_area {
+    padding: 90px 0px 50px 0px;
+  }
+  .right_advanced_text h3 {
+  color: #fff;
+  }
+  .right_advanced_text p {
+    color: #f2eef7;
+  }
+  .main_title2 h2 {
+    color: #fff;
+  }
+  .subscrib_area2 .input-group .input-group-btn .btn-default {
+    background: #020314;
+  }
+  .subscrib_area2 .input-group input {
+    background: #020314 !important;
+    border-color: #020314;
+  }
+  .subscrib_area2 .input-group input:focus {
+    border-color: #fff;
+  }
+  .main_title2 p {
+    color: #f2eef7;
+  }
+  .single_title_center {
+    color: #fff;
+  }
+  .up_blog_item .up_blog_text h4 {
+    color: #fff;
+  }
+  .up_blog_item .up_blog_text .read_c {
+    color: #f2eef7;
+  }
+  .up_blog_item .up_blog_text .read_c:hover {
+    color: #010213;
+  }
+  .more_post a {
+    color: #f2eef7;
+  }
+  .asked_ques_inner .asked_item h4 {
+    color: #fff;
+  }
+  .asked_ques_inner .asked_item p {
+    color: #f2eef7;
+  }
+  .btn.send_btn.form-control {
+    background: #b332e6 !important;
+  }
+  .btn.send_btn.form-control:hover,  .btn.send_btn.form-control:focus {
+    background: #020314 !important;
+  }
+  .contact_us_form .form-group textarea {
+    border-bottom: 1px solid #fff;
+    color: #fff;
+  }
+  .contact_us_form .form-group input {
+    color: #fff;
+  }
+  .contact_us_form .form-group input:focus {
+    border-color: #020314;
+  }
+  .up_blog_text {
+    background: #5932e6;
+  }
+  .form-group {
+    background: #5932e6;
+   }
+   .form-control {
+    background-color:#5932e6 !important;
+   }
+   .btn-default {
+    color:#b332e6;
+   }
+   .btn-default:hover {
+    color:#e032e6;
+   }
+   .p_f_w_title h3 {
+    color: #020314;
+}
+.p_f_w_title h3 {
+    color: #020314;}
+.navbar-brand img{
+  width: 200px;
+}
